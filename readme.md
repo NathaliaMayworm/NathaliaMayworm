@@ -10,10 +10,11 @@ Olá! Eu sou Nathália de Sá Mayworm, desenvolvedora front-end.
 
 ## Tecnologias Utilizadas
 
-- **Front-end:** JavaScript, TypeScript, ReactJS, Tailwind CSS.
+- **Front-end:** JavaScript, TypeScript, ReactJS, Tailwind CSS, Styled Components.
 - **Back-end:** Node.js, GraphQL.
 - **Banco de Dados:** MongoDB, PostgreSQL.
 - **Design:** Figma.
+- **Outros:** Storybook.
 
 Estas são as principais tecnologias com as quais trabalho diariamente para manter e melhorar nossa aplicação.
 
