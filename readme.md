@@ -1,24 +1,63 @@
-# Sobre Mim
+# 👩‍💻 Nathália de Sá Mayworm
 
-Olá! Eu sou Nathália de Sá Mayworm, desenvolvedora front-end.
+Software Engineer com +5 anos de experiência, especializada em front-end com atuação fullstack.
 
-## Responsabilidades
+Desenvolvo aplicações web modernas, escaláveis e de alta performance, com foco em experiência do usuário, qualidade de código e boas práticas.
 
-- Manutenção e desenvolvimento contínuo da aplicação front-end do principal produto da empresa.
-- Colaboração ativa no desenvolvimento de novas funcionalidades no front-end e no back-end.
-- Garantir que a aplicação atenda aos requisitos dos clientes e mantenha altos padrões de qualidade.
+---
 
-## Tecnologias Utilizadas
+## 🚀 Sobre mim
 
-- **Front-end:** JavaScript, TypeScript, ReactJS, Tailwind CSS, Styled Components.
-- **Back-end:** Node.js, GraphQL.
-- **Banco de Dados:** MongoDB, PostgreSQL.
-- **Design:** Figma.
-- **Outros:** Storybook.
+- Forte domínio em **React, TypeScript e Next.js**
+- Foco em **arquitetura frontend, componentização e performance**
+- Experiência na criação de **Design Systems** e componentes reutilizáveis
+- Atuação fullstack com **Node.js e NestJS**
+- Integração de APIs **REST e GraphQL**
+- Experiência com **microserviços e sistemas distribuídos**
+- Trabalho com bancos de dados **PostgreSQL e MongoDB**
+- Utilização de **IA aplicada ao desenvolvimento** (Claude, Codex, Cursor)
 
-Estas são as principais tecnologias com as quais trabalho diariamente para manter e melhorar nossa aplicação.
+---
 
-## Contato
+## 💼 Responsabilidades
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/nathaliamayworm) ou entrar em contato via e-mail em [E-mail](mailto:nathalia.mayworm@gmail.com).
+- Manutenção e evolução contínua do front-end do principal produto
+- Desenvolvimento de novas funcionalidades (front-end e back-end)
+- Participação em decisões técnicas e arquitetura
+- Garantia de qualidade, performance e boas práticas
 
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Styled Components
+
+### Back-end
+- Node.js
+- NestJS
+- GraphQL
+- REST APIs
+
+### Banco de Dados
+- PostgreSQL
+- MongoDB
+
+### Outros
+- Figma
+- Storybook
+- Design Systems
+- Arquitetura Frontend
+- Microserviços
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nathaliamayworm  
+- 📧 Email: nathalia.mayworm@gmail.com
