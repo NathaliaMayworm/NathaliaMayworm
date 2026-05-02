@@ -1,4 +1,4 @@
-# 👩‍💻 Nathália de Sá Mayworm
+# 👩‍💻 Nathália de Sá Mayworm Kapps
 
 Software Engineer com +5 anos de experiência, especializada em front-end com atuação fullstack.
 
@@ -16,15 +16,6 @@ Desenvolvo aplicações web modernas, escaláveis e de alta performance, com foc
 - Experiência com **microserviços e sistemas distribuídos**
 - Trabalho com bancos de dados **PostgreSQL e MongoDB**
 - Utilização de **IA aplicada ao desenvolvimento** (Claude, Codex, Cursor)
-
----
-
-## 💼 Responsabilidades
-
-- Manutenção e evolução contínua do front-end do principal produto
-- Desenvolvimento de novas funcionalidades (front-end e back-end)
-- Participação em decisões técnicas e arquitetura
-- Garantia de qualidade, performance e boas práticas
 
 ---
 
